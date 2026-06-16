@@ -1,0 +1,9 @@
+[
+  { "op" : "add",
+    "path" : "/sensorConfig",
+    "value" : {
+      "detectArea" : [ [ -3, 0.125 ], [ 3, 4.875 ] ],
+      "detectEntityTypes" : [ "Player", "Npc", "Monster" ]
+    }
+  }
+]
