@@ -2,6 +2,9 @@
   "author" : "rl.starbound",
   "description" : "This mod makes the base game's racial ship doors open and close automatically.\n\nFind more information, and the source code, at:\nhttps://github.com/rl-starbound/rl_automaticshipdoors",
   "friendlyName" : "Automatic Ship Doors",
+  "link" : "steam://url/CommunityFilePage/3759812910",
   "name" : "rl_automaticshipdoors",
+  "steamContentId" : "3759812910",
+  "tags" : "Furniture and Objects",
   "version" : "1.0.0"
 }
